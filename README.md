@@ -10,7 +10,6 @@ Site promocional para o **TREINE-ME**, um serviço de treinos personalizados vol
 
 - HTML5
 - CSS3
-- JavaScript (para interação do botão do WhatsApp)
 
 ## 🔘 Botão de Contato via WhatsApp
 
